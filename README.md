@@ -1,4 +1,4 @@
-                                                                     MAZE PUZZLE GAME
+                                                               MAZE PUZZLE GAME
 
 BASIC DESCRIPTION:
 We have created a maze solving game using the C++ language. The code has been designed to randomly generate a maze using ‘#’ (wall) and ‘.’ (available path) Symbols of the desired size, or as per the difficulty level chosen by the user. It then allows the user to play a maze – solving game by navigating through the maze beginning at the entry point and ending at the exit, which lies at the bottom left corner of the maze. When the user either gives up or successfully completes the maze, the computer – generated solution is displayed on the screen. We now discuss the random maze generator and the maze solver. It works very well for mazes of large sizes (small console font size and full screen view is recommended for large mazes to avoid overlapping. This can be done by right – clicking and making changes in the console properties section).
