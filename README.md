@@ -1,6 +1,6 @@
                                                     MAZE PUZZLE GAME
 
-THIS PROGRAM IS CREATED IN C++
+                                    THIS PROGRAM IS CREATED IN C++
 
 BASIC DESCRIPTION:
 
